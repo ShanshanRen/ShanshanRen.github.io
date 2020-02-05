@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>小天地</title>
+    <link>https://ShanshanRen.github.io/</link>
+    <description>Recent content on 小天地</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>even</language>
+    <lastBuildDate>Mon, 03 Feb 2020 22:11:25 +0800</lastBuildDate>
+    
+	<atom:link href="https://ShanshanRen.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Hello, world</title>
+      <link>https://ShanshanRen.github.io/post/test/</link>
+      <pubDate>Mon, 03 Feb 2020 22:11:25 +0800</pubDate>
+      
+      <guid>https://ShanshanRen.github.io/post/test/</guid>
+      <description>This is just a test blog. Today is the first day to work after the Spring festival. But I have to spend my whole day at home because of the SARS-CoV. This state will last for two weeks. Now it&#39;s already 22:15. But I did not do anything meaningful in the whole day. I have to find something to do. Otherwise, I will be driven crazy. Maybe it&#39;s time to do something I want to do for a long time, such as clean my room, rearrange my computers and so on.</description>
+    </item>
+    
+  </channel>
+</rss>
